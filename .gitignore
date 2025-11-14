@@ -1,0 +1,14 @@
+# ESP-IDF build files
+build/
+sdkconfig.old
+
+# Dependencies
+dependencies.lock
+managed_components/.component_hash
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
